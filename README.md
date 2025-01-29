@@ -1,13 +1,13 @@
 # COMP2156_Group41_Assignment  
 
 ## Group Members  
-- **Leader:** Member 1  
-- **Member 2**  
-- **Member 3**  
-- **Member 4**  
-- **Member 5**  
-- **Member 6**  
-- **Member 7**  
+- **Leader:** Mohamed, Abdigani
+Benjamin, Daniel
+Almazloum, Salah
+Omer, Adam
+Rosa Guimaraes, Eduardo
+Thandassery Gopi, Arundev
+Vhora, Sibten Habibbhai
 
 ## Project Description  
 This repository hosts the **COMP 2156 DevOps for System Administration** group assignment.  
