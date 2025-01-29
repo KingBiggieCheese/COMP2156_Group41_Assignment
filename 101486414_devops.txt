@@ -1,0 +1,1 @@
+COMP 2156 is a course at George Brown College that introduces students to DevOps practices. It covers topics like continuous integration, continuous delivery, and automation tools like GitHub Actions and Docker.
