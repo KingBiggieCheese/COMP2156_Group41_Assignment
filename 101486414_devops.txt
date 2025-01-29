@@ -1,1 +1,42 @@
-COMP 2156 is a course at George Brown College that introduces students to DevOps practices. It covers topics like continuous integration, continuous delivery, and automation tools like GitHub Actions and Docker.
+COMP 2156 - DevOps for System Administration is a course at George Brown College that introduces students to modern DevOps practices.
+
+This course is designed to bridge the gap between software development and IT operations, ensuring efficient, automated, and scalable software deployment processes.
+
+------------------------------------------------------------
+
+Key Topics Covered:
+
+1. Continuous Integration (CI) & Continuous Deployment (CD)
+   - Setting up CI/CD pipelines using GitHub Actions, Jenkins, and GitLab CI
+   - Automating build, test, and deployment workflows
+   - Implementing rollback strategies for failed deployments
+
+2. Infrastructure as Code (IaC)
+   - Using Terraform and Ansible for automated server provisioning
+   - Managing infrastructure in the cloud (AWS, Azure, GCP)
+   - Writing reusable configuration scripts
+
+3. Containerization & Orchestration
+   - Working with Docker to containerize applications
+   - Deploying and managing containers with Kubernetes
+   - Understanding microservices architecture
+
+4. Monitoring & Logging
+   - Implementing Prometheus, Grafana, and ELK Stack (Elasticsearch, Logstash, Kibana)
+   - Setting up real-time alerts and dashboards
+
+5. Security & Compliance in DevOps
+   - Implementing secure coding practices
+   - Automating security tests in CI/CD pipelines
+   - Using DevSecOps methodologies for compliance
+
+------------------------------------------------------------
+
+Hands-on Learning:
+
+Students gain practical experience by working on real-world projects, setting up DevOps workflows, and troubleshooting deployment issues.
+
+By the end of the course, students will be able to automate software delivery pipelines, optimize infrastructure management, and improve system reliability.
+
+
+
