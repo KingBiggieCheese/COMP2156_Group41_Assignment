@@ -1,3 +1,20 @@
-George Brown College is a public college located in Toronto, Ontario. 
-It offers a variety of programs, including the Computer Systems Technicial (T141) program, 
-which focuses on software development and DevOps practices.
+George Brown College is a public college located in Toronto, Ontario, Canada. 
+Established in 1967, GBC offers a wide range of diplomas, degrees, and certificate programs across various fields, 
+including business, health sciences, engineering, design, hospitality, and technology.
+
+One of its technology programs is the Computer Systems Technician T141 program, 
+which is based at the Casa Loma Campus. This program provides students with hands-on experience in:
+
+Software Development – Learning programming languages such as Python, Java, C#, and JavaScript.
+DevOps Practices – Implementing Continuous Integration/Continuous Deployment (CI/CD), 
+Infrastructure as Code (IaC), and automation using tools like Git, GitHub Actions, Docker, and Kubernetes.
+Networking and Security – Covering concepts like cloud computing, cybersecurity best practices, and network administration.
+Database Management – Working with SQL and NoSQL databases, including MySQL, PostgreSQL, and MongoDB.
+Campuses and Student Life
+
+GBC has three main campuses in downtown Toronto:
+Casa Loma Campus – Focuses on technology and skilled trades.
+St. James Campus – Offers business, hospitality, and creative programs.
+Waterfront Campus – Specializes in health sciences and nursing.
+Students at George Brown College benefit from co-op placements, industry partnerships, and access to state-of-the-art labs. 
+The school’s close ties with Toronto’s tech industry provide valuable networking and employment opportunities.
