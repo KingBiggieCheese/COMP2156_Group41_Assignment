@@ -1,6 +1,7 @@
 COMP 2156 - DevOps for System Administration is a course at George Brown College that introduces students to modern DevOps practices.
 
-This course is designed to bridge the gap between software development and IT operations, ensuring efficient, automated, and scalable software deployment processes.
+This course is designed to bridge the gap between software development and IT operations, ensuring efficient, automated, 
+and scalable software deployment processes.
 
 ------------------------------------------------------------
 
@@ -31,12 +32,3 @@ Key Topics Covered:
    - Using DevSecOps methodologies for compliance
 
 ------------------------------------------------------------
-
-Hands-on Learning:
-
-Students gain practical experience by working on real-world projects, setting up DevOps workflows, and troubleshooting deployment issues.
-
-By the end of the course, students will be able to automate software delivery pipelines, optimize infrastructure management, and improve system reliability.
-
-
-
