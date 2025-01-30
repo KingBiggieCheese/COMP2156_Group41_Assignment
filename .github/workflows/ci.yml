@@ -10,4 +10,4 @@ jobs:
       - run: echo "🎉 GitHub Actions triggered!"
       - run: echo "🐧 Running on ${{ runner.os }}"
       - run: ls ${{ github.workspace }}
-      - run: echo "🍏 Job Status: ${{ job.status }}"
+      - run: echo "🍏 Job Status:${{ job.status }}"
