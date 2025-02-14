@@ -1,4 +1,10 @@
-# COMP2156_Group41_Assignment
+COMP2156_Group41_Assignment
+
 Group Members
-Leader: ...
-Member 2: Daniel Benjamin (101485714) - [DBen25](https://github.com/DBen25)
+
+member 1: eduardo 101500298
+
+Project Description
+
+Group assignment for COMP2156 DevOps, focusing on Git workflows and CI/CD.
+
