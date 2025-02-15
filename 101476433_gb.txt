@@ -1,0 +1,3 @@
+George Brown College is a public college located in Toronto, Ontario. It offers a wide range of programs, 
+including the Computer Programmer Analyst program, which focuses on software development, system analysis, 
+and DevOps practices.
