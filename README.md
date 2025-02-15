@@ -1,3 +1,4 @@
+<<<<<<< 101486414
 # COMP2156_Group41_Assignment  
 
 ## Group Members  
@@ -17,3 +18,9 @@ It focuses on collaborative Git workflows, branch management, and **CI/CD automa
 1. Clone the repository:  
    ```bash
    git clone https://github.com/KingBiggieCheese/COMP2156_Group41_Assignment.git
+=======
+# COMP2156_Group41_Assignment
+Group Members
+Leader: ...
+Member 2: Daniel Benjamin (101485714) - [DBen25](https://github.com/DBen25)
+>>>>>>> main

@@ -1,0 +1,9 @@
+Information about George Brown College (Commit 1)
+
+George Brown has three campuses across the city each dedicated to specific programs
+(Commit 2)
+
+Casa Loma - Arts and Design, Information Tech, Construction Engineering
+Waterfront - Health Sciences
+St.James - Centre of Business
+(Commit 3)

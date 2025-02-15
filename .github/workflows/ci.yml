@@ -1,0 +1,13 @@
+name: GitHub Actions Demo
+on: [push]
+
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - run: echo "🎉 GitHub Actions triggered!"
+      - run: echo "🐧 Running on ${{ runner.os }}"
+      - run: ls ${{ github.workspace }}
+      - run: echo "🍏 Job Status:${{ job.status }}"
