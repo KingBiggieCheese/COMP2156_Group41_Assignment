@@ -1,0 +1,2 @@
+Information about COMP 3104
+(Commit 1)
