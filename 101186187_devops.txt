@@ -1,2 +1,5 @@
 Information about COMP 3104
 (Commit 1)
+
+DevOps is the integration and automation of the software development and information technology operations.
+(Commit 2)
