@@ -6,3 +6,6 @@ DevOps is the integration and automation of the software development and informa
 
 DevOps teaches students familiarity with GitBash and GitHub.
 (Commit 6)
+
+I look foward to learning more during this course to expand my knowledge.
+(Commit 7)
