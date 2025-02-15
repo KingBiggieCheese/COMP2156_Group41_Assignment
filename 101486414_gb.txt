@@ -1,0 +1,36 @@
+George Brown College is a public college located in Toronto, Ontario, Canada. 
+Established in 1967, GBC offers a wide range of diplomas, degrees, and certificate 
+programs across various fields, including business, health sciences, engineering, 
+design, hospitality, and technology.
+
+------------------------------------------------------------
+
+One of its flagship technology programs is the **Computer Systems Technician – T147** 
+program, which is based at the **Casa Loma Campus**. This program provides students 
+with hands-on experience in:
+
+1. **Software Development**  
+   - Learning programming languages such as **Python, Java, C#, and JavaScript**.  
+
+2. **DevOps Practices**  
+   - Implementing **Continuous Integration/Continuous Deployment (CI/CD)**,  
+     **Infrastructure as Code (IaC)**, and automation using tools like  
+     **Git, GitHub Actions, Docker, and Kubernetes**.  
+
+3. **Networking and Security**  
+   - Covering concepts like **cloud computing, cybersecurity best practices,  
+     and network administration**.  
+
+4. **Database Management**  
+   - Working with **SQL and NoSQL databases**, including **MySQL, PostgreSQL,  
+     and MongoDB**.  
+
+------------------------------------------------------------
+
+### **Campuses and Student Life**
+George Brown College has **three main campuses** in downtown Toronto:
+
+- **Casa Loma Campus** – Focuses on technology and skilled trades.  
+- **St. James Campus** – Offers business, hospitality, and creative programs.  
+- **Waterfront Campus** – Specializes in health sciences and nursing.  
+
