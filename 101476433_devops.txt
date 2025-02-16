@@ -3,3 +3,8 @@ Analyst program at George Brown College. This course focuses on integrating DevO
 into system administration to improve efficiency, reliability, and scalability in managing IT
 infrastructure. Students learn how to automate processes, manage configurations, and deploy systems using modern
 DevOps tools and methodologies.
+**Key Topics Covered in COMP 2156:**
+
+1. **Introduction to DevOps for System Administration:**
+   - Understanding the role of DevOps in system administration.
+   - The importance of collaboration between development, operations, and system administration teams.
