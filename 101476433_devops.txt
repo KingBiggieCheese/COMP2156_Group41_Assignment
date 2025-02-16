@@ -11,3 +11,6 @@ DevOps tools and methodologies.
 2.**Infrastructure as Code (IaC):**
    - Using tools like Terraform and Ansible to define and manage infrastructure through code.
    - Benefits of IaC, including version control, reproducibility, and scalability.
+3. **Configuration Management:**
+   - Automating system configuration using tools like Puppet, Chef, and Ansible.
+   - Ensuring consistency and compliance across multiple servers and environments.
