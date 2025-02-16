@@ -3,3 +3,5 @@
 George Brown has three campuses across the city each dedicated to specific (Commit 2)
 
 George Brown College is a public college in Toronto, Canada (Commit 3)
+
+George Brown College offers a diverse range of programs in arts, business, health, technology, and more (Commit 4)
