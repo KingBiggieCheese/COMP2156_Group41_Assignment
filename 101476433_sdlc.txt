@@ -5,3 +5,6 @@ workflows, and enabling continuous delivery.
 1. **Planning and Requirements Analysis:**
    - DevOps encourages collaboration between developers, operations, and stakeholders early in the planning phase.
    - Tools like Jira and Trello help track requirements and ensure alignment between teams.
+2. **Design:**
+   - Infrastructure as Code (IaC) tools like Terraform and Ansible allow teams to design scalable and reproducible infrastructure.
+   - DevOps practices ensure that system architecture is designed with automation and scalability in mind.
