@@ -8,3 +8,6 @@ DevOps tools and methodologies.
 1. **Introduction to DevOps for System Administration:**
    - Understanding the role of DevOps in system administration.
    - The importance of collaboration between development, operations, and system administration teams.
+2.**Infrastructure as Code (IaC):**
+   - Using tools like Terraform and Ansible to define and manage infrastructure through code.
+   - Benefits of IaC, including version control, reproducibility, and scalability.
