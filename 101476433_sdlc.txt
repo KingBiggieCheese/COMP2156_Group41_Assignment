@@ -2,3 +2,6 @@ The Software Development Life Cycle (SDLC) is a structured process used by softw
 teams to design, develop, test, and deploy high-quality software. DevOps plays a critical role
 in modernizing and optimizing the SDLC by integrating development and operations teams, automating
 workflows, and enabling continuous delivery.
+1. **Planning and Requirements Analysis:**
+   - DevOps encourages collaboration between developers, operations, and stakeholders early in the planning phase.
+   - Tools like Jira and Trello help track requirements and ensure alignment between teams.
