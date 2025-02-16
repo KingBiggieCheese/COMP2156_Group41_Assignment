@@ -1,0 +1,16 @@
+COMP 2156 - DevOps for System Administration is a core course in the Computer Programmer
+Analyst program at George Brown College. This course focuses on integrating DevOps practices
+into system administration to improve efficiency, reliability, and scalability in managing IT
+infrastructure. Students learn how to automate processes, manage configurations, and deploy systems using modern
+DevOps tools and methodologies.
+**Key Topics Covered in COMP 2156:**
+
+1. **Introduction to DevOps for System Administration:**
+   - Understanding the role of DevOps in system administration.
+   - The importance of collaboration between development, operations, and system administration teams.
+2.**Infrastructure as Code (IaC):**
+   - Using tools like Terraform and Ansible to define and manage infrastructure through code.
+   - Benefits of IaC, including version control, reproducibility, and scalability.
+3. **Configuration Management:**
+   - Automating system configuration using tools like Puppet, Chef, and Ansible.
+   - Ensuring consistency and compliance across multiple servers and environments.

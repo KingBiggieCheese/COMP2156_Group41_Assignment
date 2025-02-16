@@ -1,0 +1,7 @@
+# Information about the COMP 3104 DevOps course. (Commit 5)
+
+DevOps at George Brown College focuses on collaboration, 
+automation, and CI/CD pipelines. (Commit 6)
+
+Students learn industry tools like Docker, Jenkins,
+and Kubernetes for efficient software deployment. (Commit 7)

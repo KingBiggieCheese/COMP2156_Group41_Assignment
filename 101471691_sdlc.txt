@@ -1,0 +1,5 @@
+# Importance of learning DevOps in the software development cycle. (Commit 8)
+
+DevOps enables continuous integration and deployment, speeding up software releases. (Commit 9)
+
+ Reduces manual errors and increases efficiency in testing and deployment. (Commit 10)
