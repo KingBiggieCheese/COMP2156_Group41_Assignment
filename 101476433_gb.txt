@@ -4,3 +4,7 @@ and DevOps practices.
 One of the flagship programs at George Brown College is the **Computer Programmer Analyst** program.
 This program is designed to equip students with the skills needed to thrive in the fast-paced world
 of software development and IT.
+The curriculum covers a wide range of topics, including:
+
+Software Development:** Students learn programming languages such as Java, Python, C#
+and JavaScript, as well as frameworks and tools for building web and mobile applications.
